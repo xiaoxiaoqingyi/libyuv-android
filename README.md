@@ -17,3 +17,7 @@ libyuv for android easy to  use
 	dependencies {
 	        compile 'com.github.xiaoxiaoqingyi:libyuv-android:v1.0'
 	}
+API:
+    ARGBToNV21();
+    NV21ToARGB();
+    RGBAToARGB();
